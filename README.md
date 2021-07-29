@@ -1,2 +1,2 @@
 # goc
-OpenAM Vulnerability Checker
+OpenAm Vulnerability Checker
