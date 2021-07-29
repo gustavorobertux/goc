@@ -8,11 +8,11 @@ OpenAm Vulnerability Checker
 # Basic Usage
 ### oneliner
 ```
-▶ for i in $(cat list.txt) ; do echo $i | xargs ./goc -i ; done
+▶ for i in $(cat list.txt) ; do echo $i | xargs goc -i ; done
 ```
 ### Simple command
 ```
-▶ ./goc -i x.x.x.x
+▶ goc -i x.x.x.x
 ```
 
 # Screenshot
