@@ -16,4 +16,4 @@ OpenAm Vulnerability Checker
 ```
 
 # Screenshot
-<p align="center"><img src="https://github.com/gustavorobertux/gcs/blob/main/gcs.png" width="90%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gustavorobertux/goc/main/goc.png" width="50%"></p>
