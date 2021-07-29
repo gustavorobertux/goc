@@ -3,7 +3,7 @@ OpenAm Vulnerability Checker
 
 # Install
 ```
-▶ go get -u -v github.com/gustavorobertux/goc
+▶ go get -v github.com/gustavorobertux/goc
 ```
 # Basic Usage
 ### oneliner
